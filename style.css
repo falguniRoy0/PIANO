@@ -1,0 +1,276 @@
+body{
+  background-color: #ACB992;
+  /*border: 3px solid #C8F2EF;*/
+  opacity: 10;
+}
+.div2{
+    background-color: #886F6F;
+    width: 100%;
+    max-width: 800px;
+    height: 500%;
+    resize: none;
+    border: none;
+    outline: none;
+    padding-left: 200px;
+    padding-top: 500px;
+    margin: 20px 0px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.cnote{
+    color: black;
+    position: absolute;
+    padding-top: 260px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    z-index: 50;
+    background-color: white;
+    cursor: pointer;
+    left: 366px;
+    top: 142px;
+}
+.dnote{
+    color: black;
+    position: absolute;
+    padding-top: 260px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    z-index: 51;
+    background-color: white;
+    cursor: pointer;
+    left: 369px;
+    top: 143px;
+    margin-left: 56px;
+}
+.enote{
+    color: black;
+    position: absolute;
+    padding-top: 260px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    z-index: 52;
+    background-color: white;
+    cursor: pointer;
+    left: 373px;
+    top: 143px;
+    margin-left: 111px;
+}
+.fnote{
+    color: black;
+    position: absolute;
+    padding-top: 260px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    z-index: 53;
+    background-color: white;
+    cursor: pointer;
+    left: 377px;
+    top: 143px;
+    margin-left: 166px;
+}
+.gnote{
+    color: black;
+    position: absolute;
+    padding-top: 260px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    z-index: 54;
+    background-color: white;
+    cursor: pointer;
+    left: 381px;
+    top: 143px;
+    margin-left: 218px;
+}
+.anote{
+    color: black;
+    position: absolute;
+    padding-top: 260px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    z-index: 55;
+    background-color: white;
+    cursor: pointer;
+    left: 385px;
+    top: 143px;
+    margin-left: 274px;
+}
+.bnote{
+    color: black;
+    position: absolute;
+    padding-top: 260px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    z-index: 56;
+    background-color: white;
+    cursor: pointer;
+    left: 389px;
+    top: 143px;
+    margin-left: 329px;
+}
+.c1note{
+    color: black;
+    position: absolute;
+    padding-top: 260px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    z-index: 57;
+    background-color: white;
+    cursor: pointer;
+    left: 393px;
+    top: 143px;
+    margin-left: 384px;
+}
+.d1note{
+    color: black;
+    position: absolute;
+    padding-top: 260px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    z-index: 58;
+    background-color: white;
+    cursor: pointer;
+    left: 397px;
+    top: 143px;
+    margin-left: 446px;
+}
+.e1note{
+    color: black;
+    position: absolute;
+    padding-top: 260px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    z-index: 59;
+    background-color: white;
+    cursor: pointer;
+    left: 401px;
+    top: 143px;
+    margin-left: 508px;
+}
+.f1note{
+    color: black;
+    position: absolute;
+    padding-top: 260px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    z-index: 60;
+    background-color: white;
+    cursor: pointer;
+    left: 405px;
+    top: 143px;
+    margin-left: 570px;
+}
+.csnote{
+    position: absolute;
+    z-index: 52;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 18px;
+    margin-left: 26px;
+    padding-top: 180px;
+    background-color: black;
+    border-color: red;
+    color: white;
+    cursor: pointer;
+    left: 364px;
+    top: 142px;
+}
+.dsnote{
+    position: absolute;
+    z-index: 54;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 18px;
+    margin-left: 90px;
+    padding-top: 180px;
+    background-color: black;
+    color: white;
+    border-color: red;
+    cursor: pointer;
+    left: 363px;
+    top: 143px;
+}
+.fsnote{
+    position: absolute;
+    z-index: 58;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 18px;
+    margin-left: 206px;
+    padding-top: 180px;
+    background-color: black;
+    color: white;
+    border-color: red;
+    cursor: pointer;
+    left: 362px;
+    top: 143px;
+}
+.gsnote{
+    position: absolute;
+    z-index: 60;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 18px;
+    margin-left: 270px;
+    padding-top: 180px;
+    background-color: black;
+    color: white;
+    border-color: red;
+    cursor: pointer;
+    left: 361px;
+    top: 143px;
+}
+.bbnote{
+    position: absolute;
+    z-index: 62;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 18px;
+    margin-left: 334px;
+    padding-top: 180px;
+    background-color: black;
+    color: white;
+    border-color: red;
+    cursor: pointer;
+    left: 360px;
+    top: 143px;
+}
+.cs1note{
+    position: absolute;
+    z-index: 66;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 18px;
+    margin-left: 450px;
+    padding-top: 180px;
+    background-color: black;
+    color: white;
+    border-color: red;
+    cursor: pointer;
+    left: 359px;
+    top: 143px;
+}
+.ds1note{
+    position: absolute;
+    z-index: 68;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 18px;
+    margin-left: 525px;
+    padding-top: 180px;
+    background-color: black;
+    color: white;
+    border-color: red;
+    cursor: pointer;
+    left: 358px;
+    top: 143px;
+}
